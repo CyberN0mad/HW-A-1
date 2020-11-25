@@ -1,0 +1,20 @@
+<resources>
+    <!--    <string name="app_name">A-1</string>-->
+    <string name="app_name_after">Register App</string>
+    <string name="app_in_name">HomeWork Android-1</string>
+    <string name="text_bottom">Войдите в свою учетную запись!</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Регистрация</string>
+    <string name="HomeWork_1">HomeWork_1</string>
+    <string name="hello_txt">Hello World</string>
+    <string name="txt_btn">Успешно вошли!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
